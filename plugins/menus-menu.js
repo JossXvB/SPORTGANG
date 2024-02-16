@@ -21,13 +21,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `ㅤㅤ𝑫𝑰𝑵𝑶𝑩𝑶𝑻 @𝑩𝒚 𝑱𝒐𝒔𝒔🦖🍃
+    const str = `ㅤㅤ𝙎𝙂👺𝑩𝑶𝑻
 
- ▢ *Hola ,* ${taguser} este es el 𝑫𝑰𝑵𝑶𝑩𝑶𝑻 🦖
+ ▢ *Hola ,* ${taguser} este es el 𝙎𝙂👺𝑩𝑶𝑻 
 
- 👨🏻‍💻 *Owner:* 𝙅𝙤𝙨𝙨 🤺
- ➡️ *WA:* wa.me/56986469687
- 🔱 *IG:* @ancelzzz
+ 👨🏻‍💻 *Owner:* RIFE
+ ➡️ *WA:* wa.me/5492257411203
+ 🔱 *IG:* @clan_sport.gang
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}
@@ -98,16 +98,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *║* 🎐 _${usedPrefix}ApkEdits_
  *║* 🎐 _${usedPrefix}DriveEdits_
  *╚══ ≪ •❈• ≫ ══╝*
-
- ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
- *┃➤ 💴 ${usedPrefix}plataformas*
- *┃➤ 💳 ${usedPrefix}drops*
- *┃➤ 💳 ${usedPrefix}streaming*
- *┃➤ 💳 ${usedPrefix}cccompras*
- *┃➤ 💰 ${usedPrefix}cursovip*
- *┃➤ 💰 ${usedPrefix}cc2*
- *┃➤ 💸 ${usedPrefix}cursoplataformas*
-  ╰━━━━━━━━━━━
 
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
  *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_

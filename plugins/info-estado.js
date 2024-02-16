@@ -22,12 +22,12 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '🦖 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+  const wm = '𝙎𝙂👺𝑩𝑶𝑻';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* joss
- [#️⃣] *WA:* wa.me/56986469687
- [🤖] *PayPal:* paypal.me/ancelzzz
+ [🤴🏻] *Prop.:* RIFE
+ [#️⃣] *WA:* wa.me/5492257411203
+ [🤖] *IG:* @clan_sport.gang
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}

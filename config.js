@@ -14,7 +14,7 @@ global.owner = [
   ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
   ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
   ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
-  ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
+  ['5492257411203', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
   ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
   ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', true],
   ['56986469687', '💫 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖 💫', false],
@@ -41,11 +41,11 @@ global.suittag = ['56986469687'];
 global.prems = ['56986469687'];
 
 global.packname = '𝑻𝒐𝒎𝒂 𝑻𝒖 𝑺𝒕𝒊𝒄𝒌𝒆𝒓';
-global.author = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.wm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.titulowm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.titulowm2 = `𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖`
-global.igfg = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
+global.author = '𝙎𝙂👺';
+global.wm = '𝙎𝙂👺';
+global.titulowm = '𝙎𝙂👺';
+global.titulowm2 = `𝙎𝙂👺`
+global.igfg = '𝙎𝙂👺';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,11 +66,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖`;
-global.gt = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.mysticbot = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖';
-global.md = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
-global.mysticbot = 'https://chat.whatsapp.com/CkVjZZlIrW3JfwyhWvHFLv';
+global.wm2 = `${dia} ${fecha}\n𝙎𝙂👺`;
+global.gt = '𝙎𝙂👺';
+global.mysticbot = '𝙎𝙂👺';
+global.md = 'https://www.instagram.com/clan_sport.gang/';
+global.mysticbot = 'https://www.instagram.com/clan_sport.gang/';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
