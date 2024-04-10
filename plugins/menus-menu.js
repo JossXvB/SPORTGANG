@@ -27,7 +27,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
  👨🏻‍💻 *Owner:* 𝑵𝒂𝒂𝒚 💕
  ➡️ *WA:* wa.me/+56948498100
- 🔱 *IG:* @
+ 🔱 *IG:* @usxr.naay
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}
