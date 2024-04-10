@@ -21,13 +21,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `ㅤㅤ𝙎𝙂👺𝑩𝑶𝑻
+    const str = `ㅤㅤ𝑵𝒂𝒂𝒚 𝑩𝒐𝒕 💕
 
- ▢ *Hola ,* ${taguser} este es el 𝙎𝙂👺𝑩𝑶𝑻 
+ ▢ *Hola ,* ${taguser} este es el 𝑵𝒂𝒂𝒚 𝑩𝒐𝒕💕
 
- 👨🏻‍💻 *Owner:* RIFE
- ➡️ *WA:* wa.me/5492257411203
- 🔱 *IG:* @clan_sport.gang
+ 👨🏻‍💻 *Owner:* 𝑵𝒂𝒂𝒚 💕
+ ➡️ *WA:* wa.me/+56948498100
+ 🔱 *IG:* @
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}
